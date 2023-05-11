@@ -1,0 +1,139 @@
+.v_row{
+    height: 50px;
+    background: red;
+    border:2px dashed red;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row1{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row1>div{
+    height: 100%;
+    background: orange;
+    border:1px solid #000;
+}
+.v_row2{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row2>div{
+    height: 100%;
+    border:1px solid #000;
+    background: skyblue;
+}
+.v_row3{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row3>div{
+    height: 100%;
+    border:1px solid #000;
+    background: skyblue;
+}
+.v_row4{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row4>div{
+    height: 100%;
+    border:1px solid #000;
+    background: peru;
+}
+.v_row5{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row5>div{
+    height: 100%;
+    border:1px solid #000;
+    background: orangered;
+}
+.v_row6{
+    height: 50px;
+    border:2px dashed rgb(255, 0, 0);
+    text-align: center;
+    line-height: 50px;
+}
+.v_row6>div{
+    height: 100%;
+    border:1px solid #000;
+    background: rgb(152, 85, 3);
+}
+.v_row7{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row7>div{
+    height: 100%;
+    background: rgb(120, 187, 128);
+    border:1px solid #000;
+}
+.v_row8{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row8>div{
+    height: 100%;
+    background: rgb(168, 101, 240);
+    border:1px solid #000;
+}
+.v_row9{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row9>div{
+    height: 100%;
+    background: rgb(147, 20, 20);
+    border:1px solid #000;
+}
+.v_row10{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row10>div{
+    height: 100%;
+    background: rgb(108, 142, 155);
+    border:1px solid #000;
+}
+.v_row11{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row11>div{
+    height: 100%;
+    background: rgb(201, 221, 72);
+    border:1px solid #000;
+}
+.v_row12{
+    height: 50px;
+    border:2px dashed blue;
+    text-align: center;
+    line-height: 50px;
+}
+.v_row12>div{
+    height: 100%;
+    background: rgb(186, 186, 178);
+    border:1px solid #000;
+}
